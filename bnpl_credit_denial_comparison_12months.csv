@@ -1,0 +1,5 @@
+BNPL_User,Denied_Credit_Past_12M,Count,Percentage
+Yes,Not Denied Credit,510,54.55
+Yes,Denied Credit,425,45.45
+No,Not Denied Credit,2600,81.86
+No,Denied Credit,576,18.14
