@@ -1,7 +1,9 @@
 educ_4cat,Used_BNPL,count,percent
 Bachelor's degree or more,No,4737,89.68193865959864
+Some college/technical or associates degree,No,3418,82.660218
 High school degree or GED,No,2004,86.37931034482759
 Less than a high school degree,No,466,83.51254480286738
 Bachelor's degree or more,Yes,545,10.318061340401364
 High school degree or GED,Yes,316,13.620689655172413
+Some college/technical or associates degree,Yes,717,17.339782
 Less than a high school degree,Yes,92,16.48745519713262
