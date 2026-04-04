@@ -1,5 +1,5 @@
 BNPL_User,Denied_Credit_Past_12M,Count,Percentage
-Use_BNPL,Not_Denied_Credit,510,54.55
-Use_BNPL,Denied_Credit,425,45.45
-Don't_Use_BNPL,Not_Denied_Credit,2600,81.86
-Don't_Use_BNPL,Denied_Credit,576,18.14
+Use BNPL,Not Denied Credit,510,54.55
+Use BNPL,Denied Credit,425,45.45
+Don't Use BNPL,Not_Denied Credit,2600,81.86
+Don't Use BNPL,Denied Credit,576,18.14
